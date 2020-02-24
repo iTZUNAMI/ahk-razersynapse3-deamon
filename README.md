@@ -9,6 +9,10 @@ at startup the software does not auto-close correctly
 ## Usage and key binding :
 
 ALT GR + M 
-to restart the application
+to restart the application, than the software will work again...
 
 at startup this script will auto-close all razer windows /spalsh startup 
+
+UPDATE:
+CHANGING PATH OF THE PROCESS FOR THE NEW RAZER SYNAPSE 
+VERSION 3.5.116.10714
