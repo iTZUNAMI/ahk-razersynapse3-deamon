@@ -1,4 +1,4 @@
-# ahk-razersynapse3-deamon
+# ahk-razersynapse3-deamon (myRazerRestart)
 
 ## problem 1: 
 sometimes the Razer Synapse 3 process/service (Windows) isn't correctly working, the rgb lighting of keyboard and mouse are not working, all macro or profiles aren't loaded. I have this problem after the Windows update and the new Synapse and it comes usually after 1-2 hours of pc in idle.
