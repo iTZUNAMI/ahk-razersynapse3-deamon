@@ -7,8 +7,11 @@ This script will auto-restart the razer service and the 2 process (razer synapse
 
 Process restarted:
  "C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3.exe"
+ 
  "C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe"
+ 
 Windows service restarted:
+
  "Razer Synapse Service"
  
 
