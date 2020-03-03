@@ -28,3 +28,9 @@ at startup this script will auto-close all razer windows /spalsh startup
 UPDATE:
 CHANGING PATH OF THE PROCESS FOR THE NEW RAZER SYNAPSE 
 VERSION 3.5.116.10714
+
+
+## DEMO HERE -> https://youtu.be/jmMmj9SLffg
+
+
+
